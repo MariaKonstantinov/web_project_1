@@ -43,18 +43,19 @@
 
 
 .logo {
-  width: 154px;
-  height: 31px;
-  position: absolute;
+  width: 183px;
+  height: 32px;
+  background-image: url(../images/logo_place_header.png);
   background-size: contain;
   background-repeat: no-repeat;
-  margin: auto;
+  background-position: top left;
 }
 
 .logo_place_header {
   background-image: url(../images/logo_place_header.png);
   top: 30px;
   left: 64px;
+  position: absolute;
 }
 
 .header__title {
@@ -300,11 +301,13 @@ z-index: 1;
   background-color: #1f1f1f;
   color: #f2f2f2;
   display: flex;
+  justify-content: center;
 }
 
 .footer__columns {
   width: 90%;
-  margin: 60px auto 40px;
+  margin-top: 60px;
+  margin-bottom: 40px;
   display: flex;
   position: relative;
   justify-content: space-between;
@@ -317,6 +320,9 @@ z-index: 1;
 
 .footer__column_content_copyright {
   flex-basis: 711px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .footer__column-link {
@@ -342,10 +348,8 @@ z-index: 1;
 }
 
 .footer__author {
-  position: absolute;
-  margin: 18px 0;
-  bottom: 0;
-  left: 0;
+  margin-top: 18px;
+  margin-bottom: 18px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -353,9 +357,8 @@ z-index: 1;
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.png);
-  width: 183px;
-  height: 35px;
-  flex-basis: 711px;
+  background-repeat: no-repeat;
+  background-size: 183px 35px;
 }
 
 
