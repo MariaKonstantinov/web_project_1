@@ -16,7 +16,7 @@ ___
 
 ### __Project Functionality__
 
-* The Project work is split into two Sprints. The purpose of the first Sprint is to create a basic one-page website in HTML5 and CSS. The purpose of the second Sprint is to restructure CSS according to BEM methodology ("Nested"), add animations (using @keyframes), new blocks and elements, images and videos (using @iframes). All links represented in project serve for design purposes only (non-clickable).
+* The Project work is split into two Sprints. The purpose of the first Sprint is to create a basic one-page website in HTML5 and CSS. The purpose of the second Sprint is to restructure CSS according to BEM methodology ("Nested"), add animations (using @keyframes), new blocks and elements, images and videos (using @iframes). All links represented in project serve design purposes only (non-clickable).
 
 ### __Project Technologies__
 
