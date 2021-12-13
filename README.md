@@ -1,7 +1,14 @@
-# Web Project 1 and Web Project 2
+# Projects 1 and 2: Learning How To Learn
 
 Practicum by Yandex Web Development Program 2021-2022
 ___
+
+### Overview  
+* Project Description  
+* Project Functionality 
+* Project Technologies
+* Project Link  
+
 
 ### __Project Description__
 
@@ -15,6 +22,8 @@ ___
 
 * HTML5, CSS, BEM methodology, Flexbox.
 
+### __Project Link__
 
+* [Link to the project](https://mariakonstantinov.github.io/web_project_1/)
 
 
